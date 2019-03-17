@@ -1,0 +1,22 @@
+﻿body {
+    min-height: 100%;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    margin-left: 100px;
+    margin-top:50px
+}
+
+table  tr  td
+{
+	 
+	 
+	border: 1px solid gray;
+	 
+	 vertical-align:top
+}
+
+table tr td:nth-child(0) {  
+  /* your stuff here */
+width: 15px;
+}
