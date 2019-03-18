@@ -13,3 +13,7 @@ audio {
 hr {
 
 }
+.bgimg-2 {
+    background-image: url("./W3images/parallax2.jpg");
+    min-height: 100px;
+}
