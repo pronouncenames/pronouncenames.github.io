@@ -1,0 +1,36 @@
+﻿body {
+    min-height: 100%;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    margin-left: 10px;
+    margin-top:10px
+}
+table{
+	margin:0 auto;
+}
+ 
+
+table tr td:nth-child(0) {  
+  /* your stuff here */
+width: 15px;
+}
+table tr.border_bottom td {
+    border-bottom: 1pt solid black;
+}
+.small{
+	font-size: 12px;
+	font-weight:bold
+}
+.jasondata{
+	display:none
+}
+.entry{
+font-size: 12px;
+font-weight:bold;
+display:none;
+color: #21618C 
+}
+.toggle{
+color: #21618C  
+}
